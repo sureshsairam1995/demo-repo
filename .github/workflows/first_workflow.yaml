@@ -15,3 +15,6 @@ jobs:
       - name: Run a One-Line Script
         run: echo "Hello! Your local Git setup successfully triggered this action."
 
+      - name: Run second Line Script
+        run: echo "Hello! Your local Git setup successfully triggered second action."
+
